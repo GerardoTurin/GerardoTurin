@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gerardo Turin</h1>
 <h3 align="center">Full Stack Developer from Argentina</h3>
 
-- 🔭 I’m currently working on Fina Partner [https://finapartner.com](https://finapartner.com)
+- 🔭 I’m currently working on Centrik [https://www.centrik.pro](https://www.centrik.pro)
 
 - 👨‍💻 All of my projects are available at [https://gerardoturin-dev.netlify.app](https://gerardoturin-dev.netlify.app)
 
